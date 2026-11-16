@@ -31,7 +31,7 @@ def main():
     draw_line(t, 10, 10 + HEIGHT, 10, 10)
 
     # Draw bottom-right corner
-
+    
     # Draw bottom-left corner
 
     # Draw top-right corner
